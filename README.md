@@ -5,5 +5,6 @@
  
  Abstract — Cryptocurrency trading has been on the rise for the last few years. This project presents a solution to automate cryptocurrency trading by making a cryptocurrency trading algorithm integrated with price prediction to make a profit.
  
+ Received the Most Completed Project Award
  
  Special thanks to City University of Hong Kong
